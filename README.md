@@ -9,9 +9,9 @@
 <br/>
 
 ![Soporte Técnico](https://img.shields.io/badge/Soporte_T%C3%A9cnico-0f2027?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes_%26_Infraestructura-2c5364?style=for-the-badge&logo=cisco&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes_%26_Infraestructura-2c5364?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D-FF6F00?style=for-the-badge&logo=ultimaker&logoColor=white)
+![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D-FF6F00?style=for-the-badge)
 
 </div>
 
@@ -51,7 +51,7 @@ Tengo un perfil **híbrido**: me muevo tanto en el **software** como en el **har
 ![Routers & Switches](https://img.shields.io/badge/Routers_%26_Switches-0f2027?style=for-the-badge)
 ![Racks](https://img.shields.io/badge/Racks_%2F_Bastidores-4B5563?style=for-the-badge)
 ![PCs](https://img.shields.io/badge/Armado_%26_Mantenimiento_de_PCs-374151?style=for-the-badge&logo=intel&logoColor=white)
-![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D_%2F_PET-FF6F00?style=for-the-badge&logo=ultimaker&logoColor=white)
+![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D_%2F_PET-FF6F00?style=for-the-badge)
 
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,29 +69,11 @@ Tengo un perfil **híbrido**: me muevo tanto en el **software** como en el **har
 | 🌐 Web | *Próximamente* | `HTML` `CSS` `JavaScript` |
 | 🔌 Hardware | *Próximamente* | `Arduino` `C++` |
 | ♻️ 3D / PET | *Próximamente* | `Impresión 3D` `PET` |
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eberzacarias&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberzacarias&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-
-</div>
-
----
-
-## 📬 Contacto y Redes
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/eber-adair-zacarias)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eberzacarias19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eberzacarias)
-
-<br/>
-
-*💡 Siempre aprendiendo, construyendo y reciclando.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Pie" />
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eberzacarias&show_icons=true&theme=tokyonight&hide_border=true"

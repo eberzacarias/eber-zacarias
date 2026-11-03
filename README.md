@@ -60,40 +60,58 @@ Lo que más me interesa es entender cómo funciona un sistema completo, desde el
 
 ---
 
-## Proyectos
+### 🛠️ Proyectos Destacados
 
-### Reciclaje de PET para filamento de impresión 3D
+---
 
-Proyecto de reciclaje de plástico PET (botellas) para convertirlo en filamento utilizable en impresoras 3D. La idea es darle una segunda vida a un residuo muy común y reducir el costo de los materiales de impresión.
+#### ♻️ Reciclaje de PET para Filamento de Impresión 3D
+Proyecto enfocado en la transformación y aprovechamiento de residuos plásticos sintéticos (botellas de PET) para la producción local de filamento apto para impresión 3D FDM.
 
-[COMPLETAR: cómo es el proceso que usás, qué máquina o mecanismo armaste, qué diámetro de filamento lográs, qué problemas tuviste y cómo los resolviste, y qué piezas imprimiste con el resultado.]
+* **Proceso y Mecanismo:** Proceso integral que abarca el cortado en tira continua de las botellas de PET mediante cortadores mecánicos de precisión, paso por módulo de triturado y extrusión térmica con control de temperatura preciso para garantizar la plastificación homogénea.
+* **Especificaciones Técnicas:** Calibración de perfil de extrusión para lograr un diámetro constante de **1.75 mm** con tolerancias mínimas de variación volumétrica.
+* **Desafíos y Soluciones:**
+  * *Variación de grosor y burbujas:* Corrección del flujo de arrastre motorizado y calibración fina del bloque calefactor para evitar cristalizaciones o degradación del polímero.
+  * *Manejo de residuos e impurezas:* Implementación de etapas de limpieza, secado previo y filtrado en boquilla para evitar obstrucciones en el *hotend*.
+* **Aplicaciones Impresas:** Piezas estructurales, repuestos mecánicos de prueba y componentes para utilitarios de taller.
+* **Áreas:** Impresión 3D, Reciclaje, Mecánica, Mecatrónica.
+* **Estado:** En desarrollo / Calibración de perfiles de extrusión.
 
-- **Áreas:** impresión 3D, reciclaje, mecánica
-- **Estado:** [COMPLETAR: en desarrollo / terminado]
+---
 
-### Infraestructura de red con cableado estructurado
+#### 🌐 Infraestructura de Red con Cableado Estructurado
+Diseño, dimensionamiento y despliegue físico de un esquema de infraestructura de red de datos para entornos educativos/técnicos.
 
-Armado de una red con cableado estructurado Cat 6, rack y switches TP-Link, incluyendo la organización de los equipos y la configuración de la red.
+* **Entorno y Alcance:** Proyecto desarrollado en el ámbito escolar (E.E.S.T. N° 2 "Valentín Alsina"), contemplando la distribución de cañerías, bandejas perforadas Samet Smarttray (200mm) y canalizaciones estructuradas.
+* **Infraestructura Física:** Montaje de rack mural 6U Net Quality, parcheo con patch panels Cat 6 de 24 puertos y organizadores de cables. Conectorización de conectores RJ-45 blindados metálicos Cat 6 y drops de red.
+* **Equipamiento Activo:** Integración de switch TP-Link TL-SG1024D (Gigabit de 24 puertos) y router dual band TP-Link Archer C24 (AC750).
+* **Configuración y Aprenidzsajes:** Armado de esquema de direccionamiento IP, identificación y etiquetado normalizado de puestos de trabajo, cálculo de listas de materiales (BOM) mediante scripts y aplicación de protocolos de prueba y certificación visual/física de red.
+* **Áreas:** Redes de Datos, Cableado Estructurado, Infraestructura IT.
+* **Estado:** Terminado / Especificación técnica completada.
 
-[COMPLETAR: dónde lo hiciste (escuela, taller, casa), cuántos puestos o equipos conectaste, cómo organizaste el rack, qué configuraste en los switches y routers, y qué aprendiste.]
+---
 
-- **Áreas:** redes, cableado estructurado, configuración de equipos
-- **Estado:** [COMPLETAR]
+#### 🤖 Sistema de Control e Interfaz con Arduino
+Desarrollo e integración de hardware y software incrustado (embedded) utilizando microcontroladores para automatización y lectura de variables del entorno.
 
-### Proyectos con Arduino
+* **Descripción:** Sistema de monitoreo y control en tiempo real diseñado para automatizar lecturas físicas y dar respuesta mecatrónica según condiciones programadas.
+* **Componentes Utilizados:** Placas Arduino (Uno / Nano), sensores de temperatura/humedad, módulos de relevadores (relays) para control de cargas, displays LCD I2C y motores/actuadores servo.
+* **Funcionamiento:** Firmware escrito en C++ estructurado para procesamiento no bloqueante (manejo de tiempos con `millis()`), lectura continua de entradas analógicas/digitales y activación de salidas de potencia.
+* **Áreas / Tecnologías:** Arduino, C++, Electrónica, Microcontroladores.
+* **Estado:** Terminado.
 
-[COMPLETAR: nombre del proyecto, qué hace, qué componentes usa (sensores, motores, pantallas, módulos), cómo funciona el programa y qué problema resuelve.]
+---
 
-- **Tecnologías:** Arduino, C++
-- **Estado:** [COMPLETAR]
+#### 💻 Sistema de Gestión & Desarrollo Web
+Desarrollo de software y aplicaciones web para la administración de inventarios y maquetación de interfaces.
 
-### Desarrollo de software y sitios web
-
-[COMPLETAR: nombre del proyecto, para qué sirve, qué tecnologías usaste y qué funciones tiene. Si tenés el link al repositorio o al sitio, agregalo acá.]
-
-- **Tecnologías:** [COMPLETAR: Python / JavaScript / HTML / CSS / C / C++]
-- **Estado:** [COMPLETAR]
-
+* **Descripción:** Aplicación orientada a la gestión y control estructurado de datos (inventarios/depósitos), priorizando una arquitectura normalizada, interfaz accesible y buen rendimiento.
+* **Stack Tecnológico:** JavaScript, HTML5, CSS3, C / C#, Git / GitHub.
+* **Funcionalidades Clave:**
+  * Interfaz maquetada responsiva adaptada a dispositivos móviles y escritorio.
+  * Lógica de programación estructurada para el procesamiento de arreglos de datos, validación de formularios e ingreso de registros.
+  * Modelado de datos relacional y aplicación de buenas prácticas de desarrollo.
+* **Áreas / Tecnologías:** HTML5, CSS3, JavaScript, C, Git.
+* **Estado:** En desarrollo.
 ---
 
 ## Contacto

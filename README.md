@@ -1,100 +1,105 @@
-<div align="center">
+<h1 align="center">Eber Adair Zacarías</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eber%20Adair%20Zacar%C3%ADas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%2B%20Hardware%20%2B%20Infraestructura&descAlignY=58&descSize=18" alt="Encabezado" />
+<p align="center">
+  Técnico en Informática · Software, redes y hardware<br/>
+  Buenos Aires, Argentina
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4ACBD6&center=true&vCenter=true&width=600&lines=Estudiante+T%C3%A9cnico+en+Inform%C3%A1tica;Soporte+t%C3%A9cnico+%7C+Redes+%7C+Arduino;Desarrollo+de+software+y+web;Impresi%C3%B3n+3D+%26+reciclaje+de+PET+%E2%99%BB%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Soporte Técnico](https://img.shields.io/badge/Soporte_T%C3%A9cnico-0f2027?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes_%26_Infraestructura-2c5364?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D-FF6F00?style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eber-adair-zacarias"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:eberzacarias19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/eberzacarias"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-¡Hola! Soy **Eber**, estudiante técnico en Informática en la **E.E.S.T. N° 2 "Valentín Alsina"** (Buenos Aires, Argentina).
+Estudio en la E.E.S.T. N° 2 "Valentín Alsina" y me muevo entre dos mundos que suelen ir separados: el software y la infraestructura física. Lo mismo me puede tocar escribir un programa en Python o C++ que armar un rack, tirar cable Cat 6 y configurar un switch.
 
-Tengo un perfil **híbrido**: me muevo tanto en el **software** como en el **hardware y la infraestructura**. Me gusta entender un sistema completo, desde el código que corre hasta el cable y el rack que lo conecta.
+Lo que más me interesa es entender cómo funciona un sistema completo, desde el código hasta el cable que lo conecta. Además de la informática, me dedico a los microcontroladores con Arduino y a la impresión 3D, en particular al reciclaje de plástico PET para fabricar filamento.
 
-- 🖥️ Soporte técnico y mantenimiento de equipos
-- 🌐 Redes: configuración de switches y routers, cableado estructurado Cat 6, armado de racks
-- 🔌 Microcontroladores y electrónica con Arduino
-- ♻️ Impresión 3D y reciclaje de filamento PET
-- 💻 Desarrollo de software y sitios web
+**Lo que hago:**
 
----
-
-## 🛠️ Tecnologías & Herramientas
-
-### 💬 Lenguajes
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌎 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔧 Hardware & Redes
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white)
-![Cableado Cat 6](https://img.shields.io/badge/Cableado_Estructurado-Cat_6-2c5364?style=for-the-badge)
-![Routers & Switches](https://img.shields.io/badge/Routers_%26_Switches-0f2027?style=for-the-badge)
-![Racks](https://img.shields.io/badge/Racks_%2F_Bastidores-4B5563?style=for-the-badge)
-![PCs](https://img.shields.io/badge/Armado_%26_Mantenimiento_de_PCs-374151?style=for-the-badge&logo=intel&logoColor=white)
-![Impresión 3D](https://img.shields.io/badge/Impresi%C3%B3n_3D_%2F_PET-FF6F00?style=for-the-badge)
-
-### 🧰 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Soporte técnico y mantenimiento de equipos
+- Redes: switches, routers y cableado estructurado
+- Electrónica y microcontroladores con Arduino
+- Impresión 3D y reciclaje de filamento PET
+- Desarrollo de software y sitios web
 
 ---
 
-## 🚀 Proyectos Destacados
+## Tecnologías
 
-> 🚧 Estoy subiendo mis proyectos a GitHub de a poco. ¡Pronto vas a encontrarlos acá!
+**Lenguajes**
 
-| Área | Proyecto | Tecnologías |
-|------|----------|-------------|
-| 💻 Software | *Próximamente* | `Python` `C++` |
-| 🌐 Web | *Próximamente* | `HTML` `CSS` `JavaScript` |
-| 🔌 Hardware | *Próximamente* | `Arduino` `C++` |
-| ♻️ 3D / PET | *Próximamente* | `Impresión 3D` `PET` |
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Hardware y redes**
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=flat-square&logo=tplink&logoColor=white)
+![Cableado estructurado Cat 6](https://img.shields.io/badge/Cableado_estructurado-Cat_6-2c5364?style=flat-square)
+![Routers y switches](https://img.shields.io/badge/Routers_y_switches-374151?style=flat-square)
+![Racks](https://img.shields.io/badge/Racks-4B5563?style=flat-square)
+![Armado y mantenimiento de PCs](https://img.shields.io/badge/Armado_y_mantenimiento_de_PCs-374151?style=flat-square)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Proyectos
 
-<div align="center">
+### Reciclaje de PET para filamento de impresión 3D
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eberzacarias&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberzacarias&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+Proyecto de reciclaje de plástico PET (botellas) para convertirlo en filamento utilizable en impresoras 3D. La idea es darle una segunda vida a un residuo muy común y reducir el costo de los materiales de impresión.
 
-</div>
+[COMPLETAR: cómo es el proceso que usás, qué máquina o mecanismo armaste, qué diámetro de filamento lográs, qué problemas tuviste y cómo los resolviste, y qué piezas imprimiste con el resultado.]
+
+- **Áreas:** impresión 3D, reciclaje, mecánica
+- **Estado:** [COMPLETAR: en desarrollo / terminado]
+
+### Infraestructura de red con cableado estructurado
+
+Armado de una red con cableado estructurado Cat 6, rack y switches TP-Link, incluyendo la organización de los equipos y la configuración de la red.
+
+[COMPLETAR: dónde lo hiciste (escuela, taller, casa), cuántos puestos o equipos conectaste, cómo organizaste el rack, qué configuraste en los switches y routers, y qué aprendiste.]
+
+- **Áreas:** redes, cableado estructurado, configuración de equipos
+- **Estado:** [COMPLETAR]
+
+### Proyectos con Arduino
+
+[COMPLETAR: nombre del proyecto, qué hace, qué componentes usa (sensores, motores, pantallas, módulos), cómo funciona el programa y qué problema resuelve.]
+
+- **Tecnologías:** Arduino, C++
+- **Estado:** [COMPLETAR]
+
+### Desarrollo de software y sitios web
+
+[COMPLETAR: nombre del proyecto, para qué sirve, qué tecnologías usaste y qué funciones tiene. Si tenés el link al repositorio o al sitio, agregalo acá.]
+
+- **Tecnologías:** [COMPLETAR: Python / JavaScript / HTML / CSS / C / C++]
+- **Estado:** [COMPLETAR]
 
 ---
 
-## 📬 Contacto y Redes
+## Contacto
 
-<div align="center">
+Si querés hablar de algún proyecto, consultarme algo o proponerme algo, escribime:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eber-adair-zacarias)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eberzacarias19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eberzacarias)
-
-<br/>
-
-*💡 Siempre aprendiendo, construyendo y reciclando.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Pie" />
-
-</div>
+- Email: [eberzacarias19@gmail.com](mailto:eberzacarias19@gmail.com)
+- LinkedIn: [eber-adair-zacarias](https://www.linkedin.com/in/eber-adair-zacarias)
+- GitHub: [eberzacarias](https://github.com/eberzacarias)

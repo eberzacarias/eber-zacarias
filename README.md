@@ -76,4 +76,25 @@ Tengo un perfil **híbrido**: me muevo tanto en el **software** como en el **har
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eberzacarias&show_icons=true&theme=tokyonight&hide_border=true"
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eberzacarias&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eberzacarias&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+
+</div>
+
+---
+
+## 📬 Contacto y Redes
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eber-adair-zacarias)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eberzacarias19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eberzacarias)
+
+<br/>
+
+*💡 Siempre aprendiendo, construyendo y reciclando.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Pie" />
+
+</div>
